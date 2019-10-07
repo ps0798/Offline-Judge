@@ -28,3 +28,12 @@ The advantages offered by offline program judges are numerous:
 + `Multiple language support`
 + `Quick checking`
 + `No biases`
+
+##The set-up
+
+Let us explore the individual components of Openjudge. To install it, we first need some configuration.Openjudge was written with Linux in mind in order to eliminate complex issues arising from supporting multiple operating systems. This article was written using Linux Mint 17. It is known to work on Ubuntu also. The prerequisites are:  
+1. Linux Mint/Ubuntu  
+2. Python 3  
+3. Git  
+4. Pip and Virtualenv  
+In order to complete this list of requirements, let's first get hold of a Linux system. After that, open the terminal (Ctrl + Alt + T) and type in the following commands:
